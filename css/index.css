@@ -119,7 +119,7 @@ section.creative-section section.creative-card div.img-container{
 
 
 
-/*section.creative-sec div.img-container div.overlay{
+/*section.creative-sec section.creative-card div.overlay{
   position: absolute;
   top: 200%;
   bottom: 0;
@@ -130,13 +130,13 @@ section.creative-section section.creative-card div.img-container{
   opacity: 0;
   transition: .5s ease;
   background-color: black;
-}*/
+}
 
-/*section.creative-sec div.img-container:hover .overlay {
+section.creative-sec section.creative-card:hover .overlay {
   opacity: .5;
-}*/
+}
 
-/*section.creative-sec div.img-container div.overlay div.text {
+section.creative-sec section.creative-card div.overlay div.text {
   color: white;
   font-size: 50px;
   position: absolute;
